@@ -1,0 +1,6 @@
+framework module extend {
+  umbrella header "extend-umbrella.h"
+
+  export *
+  module * { export * }
+}
